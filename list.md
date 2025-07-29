@@ -4,4 +4,4 @@
 | AdventureKraft          | OreSpawn               | 1.16.5 Forge            |  redrosewarrior1        | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/adventurekraft)   |
 | Bibliocraft Legacy          | Bibliocraft               | 1.21.1 NeoForge            | IchHabeHunger54   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/bibliocraft-legacy),[Modrinth](https://modrinth.com/mod/bibliocraft-legacy)      |
 | Hunting Dimension Remake          | Hunting Dimension               | 1.20.1 Forge, 1.21.1 1.21.4 NeoForge            | catman0221   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/hunting-dimension-remake)      |
-| Just Another Witchery Remake          | Witchery               | 1.21.1 Fabric & NeoForge            | MrSterner_   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/just-another-witchery-remake)      |
+| Just Another Witchery Remake          | Witchery               | 1.21.1 Fabric & NeoForge            | MrSterner_   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/just-another-witchery-remake), [Modrinth](https://modrinth.com/mod/just-another-witchery-remake)      |
